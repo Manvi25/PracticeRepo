@@ -7,3 +7,4 @@
 5. push the changes
 6. created the new branch
 7. merged it into the firstbranch
+8. Rebase command is being used. Testing the rebase command 
